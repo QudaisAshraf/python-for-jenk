@@ -1,1 +1,1 @@
-print('Wassup Buddy, This is Qudais working with github and jennkins simultaneously.')
+print('Wassup Buddy, This is Qudais working with github and jenkins simultaneously.')
